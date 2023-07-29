@@ -435,7 +435,7 @@ textarea,input{
 textarea{
     resize: none;
 }
-button{
+.button{
     border: none;
     padding: 10px 20px;
     background: #f6608a;
